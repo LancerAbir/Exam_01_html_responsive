@@ -1,0 +1,94 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+    
+    
+    
+.mainmenu ul li {
+  padding-left: 87px;
+}
+    
+    
+    
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+    
+    
+    
+.mainmenu ul li {
+  padding-left: 80px;
+}
+.blog-wrapper-item h2 {
+  font-size: 25px;
+}
+
+    
+    
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+    
+    
+    
+    
+.logo {
+    padding: 30px;
+    text-align: center;
+}
+.mainmenu > ul {
+  text-align: center;
+}
+.mainmenu ul li {
+  padding-left: 10px;
+}
+.mainmenu ul li a {
+  font-size: 11px;
+  padding: 20px 0;
+}  
+
+.blog-wrapper-item {
+  margin-bottom: 60px;
+}
+.newalatter-section h2 {
+  font-size: 20px;
+}
+.newslatter-form {
+  width: 240px;
+}
+.blog-wrapper-item h2 {
+  font-size: 18px;
+}
+.fotter-area ul {
+  text-align: center;
+}
+.col-sm-6.text-right {
+  text-align: center;
+  margin-top: 20px;
+}
+.blog-wrapper-item.big-bg-blog img {
+    margin-bottom: 40px;
+}
+.bog-contain p {
+  margin-bottom: 15px;
+}
+.loadmore-btn-blog {
+  font-size: 16px;
+  margin-bottom: 40px;
+  padding: 6px 15px;
+}
+    
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+    
+    
+.mainmenu ul li {
+  padding-left: 68px;
+}
+.mainmenu ul li a {
+  font-size: 15px;
+  padding: 45px 0;
+}    
+    
+
+}
